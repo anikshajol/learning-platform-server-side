@@ -1,34 +1,83 @@
 [
   {
     "id": "01",
-    "name": "Breaking News"
+    "title": "JavaScript",
+    "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you will learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
+    "overview": [
+      "Extensive, informative and interesting video lecture",
+      "Downloadable course in HTML and PDF",
+      "8 weeks of instructor mentoring",
+      "Complete Code demonstrated in lecture",
+      "Detailed assignment feedback"
+    ]
   },
   {
     "id": "02",
-    "name": "Regular News"
+
+    "title": "React JS",
+    "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you will learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+    "img": "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png",
+
+    "overview": [
+      "Extensive, informative and interesting video lecture",
+      "Downloadable course in HTML and PDF",
+      "8 weeks of instructor mentoring",
+      "Complete Code demonstrated in lecture",
+      "Detailed assignment feedback"
+    ]
   },
   {
     "id": "03",
-    "name": "International News"
+    "title": "CSS",
+
+    "description": "",
+    "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
+    "overview": [
+      "Extensive, informative and interesting video lecture",
+      "Downloadable course in HTML and PDF",
+      "8 weeks of instructor mentoring",
+      "Complete Code demonstrated in lecture",
+      "Detailed assignment feedback"
+    ]
   },
   {
     "id": "04",
-    "name": "Sports"
+    "title": "Node.js",
+    "description": "",
+    "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
+    "overview": [
+      "Extensive, informative and interesting video lecture",
+      "Downloadable course in HTML and PDF",
+      "8 weeks of instructor mentoring",
+      "Complete Code demonstrated in lecture",
+      "Detailed assignment feedback"
+    ]
   },
   {
     "id": "05",
-    "name": "Entertainment"
+    "title": "Angular",
+    "description": "",
+    "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
+    "overview": [
+      "Extensive, informative and interesting video lecture",
+      "Downloadable course in HTML and PDF",
+      "8 weeks of instructor mentoring",
+      "Complete Code demonstrated in lecture",
+      "Detailed assignment feedback"
+    ]
   },
   {
     "id": "06",
-    "name": "Culture"
-  },
-  {
-    "id": "07",
-    "name": "Arts"
-  },
-  {
-    "id": "08",
-    "name": "All News"
+    "title": "HTML5",
+    "description": "",
+    "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
+    "overview": [
+      "Extensive, informative and interesting video lecture",
+      "Downloadable course in HTML and PDF",
+      "8 weeks of instructor mentoring",
+      "Complete Code demonstrated in lecture",
+      "Detailed assignment feedback"
+    ]
   }
 ]
