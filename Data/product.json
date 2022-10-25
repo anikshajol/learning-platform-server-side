@@ -16,7 +16,8 @@
     "id": "02",
 
     "title": "React JS",
-    "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you will learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+    "description": "The React. JS Course Curriculum contains basic elements like introduction, JSX overview, Environmental setup, real-time applications, forms and UI, Component Lifecycle, Event Handling, and Styles along with advanced features such as router and navigations, Flux, Redux, and Unit testing methods.",
+
     "img": "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png",
 
     "overview": [
@@ -31,7 +32,7 @@
     "id": "03",
     "title": "CSS",
 
-    "description": "",
+    "description": "Cascading Style Sheets (CSS) are the main coding files used to lay out a website and its design. CSS3 is the latest in styling standards, and it brings several new properties and declarations you can use to make your website design more easily created.",
     "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
     "overview": [
       "Extensive, informative and interesting video lecture",
@@ -44,8 +45,8 @@
   {
     "id": "04",
     "title": "Node.js",
-    "description": "",
-    "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
+    "description": "This Node. js Certification course trains you to construct scalable web apps using Express Framework and Nginx. In this course, you'll learn how to develop MongoDB backed applications, implement testing, build microservices applications, and build a real-time chat app using Socket IO.",
+    "img": "https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png",
     "overview": [
       "Extensive, informative and interesting video lecture",
       "Downloadable course in HTML and PDF",
@@ -57,8 +58,8 @@
   {
     "id": "05",
     "title": "Angular",
-    "description": "",
-    "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
+    "description": "Angular provides a robust framework that facilitates the development of richly interactive applications running on multiple platforms. Gain experience building components, creating directives, modularizing applications, and building template-driven forms.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png",
     "overview": [
       "Extensive, informative and interesting video lecture",
       "Downloadable course in HTML and PDF",
@@ -70,8 +71,8 @@
   {
     "id": "06",
     "title": "HTML5",
-    "description": "",
-    "img": "https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png",
+    "description": "Overview: HTML5 is a standard for structuring and presenting content on the Web. It incorporates features such as geolocation, video playback and drag-and-drop. HTML5 allows developers to create rich internet applications without the need for third party APIs and browser plug-ins. JavaScript.",
+    "img": "https://www.cnet.com/a/img/resize/92ebd806405ac2adf2e2b0f903b5feda822afe21/hub/2011/01/18/5aecbdd4-f0f7-11e2-8c7c-d4ae52e62bcc/HTML5_Logo_550px.png?auto=webp&fit=crop&height=900&width=1200",
     "overview": [
       "Extensive, informative and interesting video lecture",
       "Downloadable course in HTML and PDF",
