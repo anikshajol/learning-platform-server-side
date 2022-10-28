@@ -2,7 +2,7 @@
   {
     "id": "01",
     "title": "HTML5",
-    "description": "Overview: HTML5 is a standard for structuring and presenting content on the Web. It incorporates features such as geolocation, video playback and drag-and-drop. HTML5 allows developers to create rich internet applications without the need for third party APIs and browser plug-ins. JavaScript.",
+    "description": "HTML5 is a standard for structuring and presenting content on the Web. It incorporates features such as geolocation, video playback and drag-and-drop. HTML5 allows developers to create rich internet applications without the need for third party APIs and browser plug-ins. JavaScript.",
     "img": "https://www.cnet.com/a/img/resize/92ebd806405ac2adf2e2b0f903b5feda822afe21/hub/2011/01/18/5aecbdd4-f0f7-11e2-8c7c-d4ae52e62bcc/HTML5_Logo_550px.png?auto=webp&fit=crop&height=900&width=1200",
     "overview": [
       "Extensive, informative and interesting video lecture",
@@ -10,7 +10,8 @@
       "8 weeks of instructor mentoring",
       "Complete Code demonstrated in lecture",
       "Detailed assignment feedback"
-    ]
+    ],
+    "premmium": "Get premium access"
   },
 
   {
@@ -25,7 +26,8 @@
       "8 weeks of instructor mentoring",
       "Complete Code demonstrated in lecture",
       "Detailed assignment feedback"
-    ]
+    ],
+    "premmium": "Get premium access"
   },
 
   {
@@ -39,7 +41,8 @@
       "8 weeks of instructor mentoring",
       "Complete Code demonstrated in lecture",
       "Detailed assignment feedback"
-    ]
+    ],
+    "premmium": "Get premium access"
   },
   {
     "id": "04",
@@ -52,7 +55,8 @@
       "8 weeks of instructor mentoring",
       "Complete Code demonstrated in lecture",
       "Detailed assignment feedback"
-    ]
+    ],
+    "premmium": "Get premium access"
   },
   {
     "id": "05",
@@ -68,7 +72,8 @@
       "8 weeks of instructor mentoring",
       "Complete Code demonstrated in lecture",
       "Detailed assignment feedback"
-    ]
+    ],
+    "premmium": "Get premium access"
   },
 
   {
@@ -82,6 +87,7 @@
       "8 weeks of instructor mentoring",
       "Complete Code demonstrated in lecture",
       "Detailed assignment feedback"
-    ]
+    ],
+    "premmium": "Get premium access"
   }
 ]
